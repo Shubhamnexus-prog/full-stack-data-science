@@ -10,7 +10,7 @@ minute = send_time.minute
 print("WhatsApp opening at:", hour, minute)
 
 pywhatkit.sendwhatmsg(
-    "+91xxxxxxxxxx",
+    "+919279610872",
     "Hello! Testing WhatsApp automation.",
     hour,
     minute,
